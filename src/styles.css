@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+  font-family: 'Roboto', sans-serif;
+}
+.container{
+  width: 1200px;
+  margin: 0 auto;
+}
+.centered{
+  text-align: center;
+}
+#logo{
+  width: 350px;
+  height: 300px;
+  margin-top: -70px;
+}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;   
+}
